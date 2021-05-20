@@ -6,7 +6,7 @@ BROWN='\033[0;33m'
 NC='\033[0m'
 dir='/home'
 
-printf '[Log checketc]\n'
+printf '[Log checkhome]\n'
 
 # 1. Kiem tra file tao moi
 
